@@ -1,5 +1,15 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Joseph Bradley is a postgraduate researcher in Econophysics in the Department of Mathematics, King's College London. His research degrees focusses on the role that statistical physics can play in creating robust, low parameter methods for clustering problems in financial markets.
+
+He completed his masters in complex systems modelling at King's College London and his undergraduate degree in Philosophy, Politics and Economics at Brasenose College, Oxford. 
+
+### Research interests 
+- Econophysics
+- Information filtering networks
+- Multiscaling processes  
+
+### PhD supervision 
+Principal supervisor: [Professor Tiziana Di Matteo](https://www.kcl.ac.uk/people/tiziana-di-matteo)
