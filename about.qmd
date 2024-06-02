@@ -6,6 +6,8 @@ Joseph Bradley is a postgraduate researcher in Econophysics in the Department of
 
 He completed his masters in complex systems modelling at King's College London and his undergraduate degree in Philosophy, Politics and Economics at Brasenose College, Oxford. 
 
+![](imgs/profile photo cropped.jpeg){width="308"}
+
 ### Research interests 
 - Econophysics
 - Information filtering networks

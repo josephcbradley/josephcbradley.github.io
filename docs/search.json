@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joseph C Bradley",
-    "section": "",
-    "text": "Welcome to my website! Please see links to my work below. If you'd like to contact me, please drop me an email at joseph.bradley@kcl.ac.uk.\n\nResearch Interests\n\nEconophysics\nComplex Systems\nSystematic Portfolio Allocation\n\n\n\nConferences\n\n1st British NetSci Symposium - May 2024\nEconophysics Colloquium - 25th Anniversary\n\n\n\nCode Contributions\n\nEconophysicsMATLAB\nBrownian.jl\nBGL Boost Maintenance\nHurst.jl\n\n\n\nTeaching Assistant Roles\n\nEconophysics\nStatistics in Finance\nEquilibrium Analysis of Complex Systems\n\n\n\nSocials\n\nGithub\nTwitter/X\nFaculty page"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Joseph Bradley is a postgraduate researcher in Econophysics in the Department of Mathematics, King’s College London. His research degrees focusses on the role that statistical physics can play in creating robust, low parameter methods for clustering problems in financial markets.\nHe completed his masters in complex systems modelling at King’s College London and his undergraduate degree in Philosophy, Politics and Economics at Brasenose College, Oxford.\n\nResearch interests\n\nEconophysics\nInformation filtering networks\nMultiscaling processes\n\n\n\nPhD supervision\nPrincipal supervisor: Professor Tiziana Di Matteo"
+    "text": "Joseph Bradley is a postgraduate researcher in Econophysics in the Department of Mathematics, King’s College London. His research degrees focusses on the role that statistical physics can play in creating robust, low parameter methods for clustering problems in financial markets.\nHe completed his masters in complex systems modelling at King’s College London and his undergraduate degree in Philosophy, Politics and Economics at Brasenose College, Oxford.\n\n\nResearch interests\n\nEconophysics\nInformation filtering networks\nMultiscaling processes\n\n\n\nPhD supervision\nPrincipal supervisor: Professor Tiziana Di Matteo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joseph C Bradley",
+    "section": "",
+    "text": "Welcome to my website! Please see links to my work below. If you’d like to contact me, please drop me an email at joseph.bradley@kcl.ac.uk.\n\n\n\nResearch Interests\n\nEconophysics\nComplex Systems\nSystematic Portfolio Allocation\n\n\n\nConferences\n\n1st British NetSci Symposium - May 2024\nEconophysics Colloquium - 25th Anniversary\n\n\n\nCode Contributions\n\nEconophysicsMATLAB\nBrownian.jl\nBGL Boost Maintenance\nHurst.jl\n\n\n\nTeaching Assistant Roles\n\nEconophysics\nStatistics in Finance\nEquilibrium Analysis of Complex Systems\n\n\n\nSocials\n\nGithub\nTwitter/X\nFaculty page"
   }
 ]

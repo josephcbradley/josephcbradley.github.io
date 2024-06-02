@@ -2,32 +2,40 @@
 title: "Joseph C Bradley"
 ---
 
-```{=html}
-<p>Welcome to my website! Please see links to my work below. If you'd like to contact me, please drop me an email at<!-- fhetydagzzzgjds --> joseph.bradley@<!-- sdfjsdhfkjypcs -->kcl.<!-- asjoxp -->ac.uk.</p>
-```
+<p>Welcome to my website! Please see links to my work below. If you'd like to contact me, please drop me an email at<!-- fhetydagzzzgjds --> joseph.bradley\@<!-- sdfjsdhfkjypcs -->kcl.<!-- asjoxp -->ac.uk.</p>
+
+![](imgs/presenting_img.jpeg){width="473"}
 
 ### Research Interests
-- Econophysics 
-- Complex Systems
-- Systematic Portfolio Allocation
 
-### Conferences 
-- [1st British NetSci Symposium - May 2024](https://www.netsci.uk/program-31th-may.html)
-- [Econophysics Colloquium - 25th Anniversary](https://csh.ac.at/events/econophysics-colloquium-2024/)
+-   Econophysics
+-   Complex Systems
+-   Systematic Portfolio Allocation
 
-### Code Contributions 
-- [EconophysicsMATLAB](https://github.com/josephcbradley/EconophysicsMATLAB)
-- [Brownian.jl](https://github.com/uow-statistics/Brownian.jl)
-- [BGL Boost Maintenance](https://github.com/josephcbradley/bgl_boost)
-- [Hurst.jl](https://github.com/josephcbradley/Hurst.jl)
+### Conferences
 
+-   [1st British NetSci Symposium - May 2024](https://www.netsci.uk/program-31th-may.html)
+-   [Econophysics Colloquium - 25th Anniversary](https://csh.ac.at/events/econophysics-colloquium-2024/)
+
+### Code Contributions
+
+-   [EconophysicsMATLAB](https://github.com/josephcbradley/EconophysicsMATLAB)
+-   [Brownian.jl](https://github.com/uow-statistics/Brownian.jl)
+-   [BGL Boost Maintenance](https://github.com/josephcbradley/bgl_boost)
+-   [Hurst.jl](https://github.com/josephcbradley/Hurst.jl)
 
 ### Teaching Assistant Roles
-- Econophysics
-- Statistics in Finance
-- Equilibrium Analysis of Complex Systems
+
+-   Econophysics
+-   Statistics in Finance
+-   Equilibrium Analysis of Complex Systems
 
 ### Socials
-- [Github](https://github.com/josephcbradley)
-- [Twitter/X](https://x.com/josephcbradley)
-- [Faculty page](https://www.kcl.ac.uk/people/joseph-bradley)
+
+-   [Github](https://github.com/josephcbradley)
+-   [Twitter/X](https://x.com/josephcbradley)
+-   [Faculty page](https://www.kcl.ac.uk/people/joseph-bradley)
+
+![](imgs/mbc_presentation.jpeg){width="473"}
+
+
