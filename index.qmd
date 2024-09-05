@@ -12,6 +12,11 @@ title: "Joseph C Bradley"
 -   Complex Systems
 -   Systematic Portfolio Allocation
 
+### Research 
+Check out my [Master's Thesis on Quantum Spin Chains](https://github.com/josephcbradley/sdrgjl) with [Prof. Paola Ruggiero](https://www.kcl.ac.uk/people/paola-ruggiero).
+
+I have a paper on hierarchical clustering in factor portfolios in preparation. Please get in touch if you would like to discuss.
+
 ### Conferences
 
 -   [1st British NetSci Symposium - May 2024](https://www.netsci.uk/program-31th-may.html)
