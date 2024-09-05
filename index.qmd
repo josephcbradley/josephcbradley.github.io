@@ -16,6 +16,7 @@ title: "Joseph C Bradley"
 
 -   [1st British NetSci Symposium - May 2024](https://www.netsci.uk/program-31th-may.html)
 -   [Econophysics Colloquium - 25th Anniversary](https://csh.ac.at/events/econophysics-colloquium-2024/)
+-   [Conference on Complex Systems 2024](https://ccs24.cssociety.org)
 
 ### Code Contributions
 
